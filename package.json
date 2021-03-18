@@ -1,0 +1,9 @@
+{
+  "name": "to-default-loader",
+  "description": "to-defaul loader for webpack",
+  "version": "1.0.0",
+  "main": "./src/to-string.js",
+  "dependencies": {
+    "loader-utils": "^1.0.0"
+  }
+}
